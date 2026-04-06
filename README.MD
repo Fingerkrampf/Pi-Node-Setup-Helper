@@ -1,13 +1,12 @@
 # Pi Node Setup Helper v11.0 🚀
 
 <p align="center">
-  <img src="https://github.com/Fingerkrampf/Pi-Node-Setup-Helper-v5.0-/blob/main/Screenshot%202026-04-02%20161519.png?raw=true" width="48%" alt="Screenshot 2">
-  <img src="https://github.com/Fingerkrampf/Pi-Node-Setup-Helper-v5.0-/blob/main/Screenshot%202026-04-02%20161332.png?raw=true" width="48%" alt="Screenshot 1">
+  <img src="https://github.com/Fingerkrampf/Pi-Node-Setup-Helper/blob/main/Screenshot_before.png" width="48%" alt="Screenshot before">
+  <img src="https://github.com/Fingerkrampf/Pi-Node-Setup-Helper/blob/main/Screenshot_after.png" width="48%" alt="Screenshot after">
 </p>
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-blue.svg)](https://github.com/Fingerkrampf)
 [![License](https://img.shields.io/badge/License-Copyright%20by%20Fingerkrampf-green.svg)](https://github.com/Fingerkrampf)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 An automated, cross-platform setup assistant for Pi Node operators. This tool simplifies the complex installation and configuration process required to run a healthy Pi Node on Windows and macOS.
 

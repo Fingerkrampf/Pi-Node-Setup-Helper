@@ -23,7 +23,7 @@ An automated, setup assistant for Pi Node operators. This tool simplifies the co
 1.  **System Preparation**: Automated WSL2 activation (Windows).
 2.  **Stability**: Disabling hibernation to ensure constant node uptime.
 3.  **Firewall Management**: Automatic configuration of local firewall rules for Pi Node ports.
-4.  **Easy-Clicks-Download **: Direct linking to official Docker and Pi Node Homepages.
+4.  **Easy-Clicks-Download**: Direct linking to official Docker and Pi Node Homepages.
 5.  **VPN Solution**: Automatic deployment of a WireGuard tunnel on a remote Linux server (VPS) with port forwarding.
 
 ---

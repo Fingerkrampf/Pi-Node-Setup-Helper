@@ -5,26 +5,22 @@
   <img src="https://github.com/Fingerkrampf/Pi-Node-Setup-Helper/blob/main/Screenshot_after.png" width="48%" alt="Screenshot after">
 </p>
 
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-blue.svg)](https://github.com/Fingerkrampf)
-[![License](https://img.shields.io/badge/License-Copyright%20by%20Fingerkrampf-green.svg)](https://github.com/Fingerkrampf)
-
-An automated, cross-platform setup assistant for Pi Node operators. This tool simplifies the complex installation and configuration process required to run a healthy Pi Node on Windows and macOS.
+An automated, setup assistant for Pi Node operators. This tool simplifies the complex installation and configuration process required to run a healthy Pi Node on Windows.
 
 ---
 
 ## 🌟 Key Features
 
 - **Step-by-Step Guidance**: A clear, 8-step workflow helps you from zero to a fully functional node.
-- **Cross-Platform Support**: Tailored workflows for both **Windows** (WSL2, Docker) and **macOS** (Homebrew, Docker).
 - **Advanced Networking (DS-Lite/CG-NAT Fix)**: Integrated automatic WireGuard server setup for users who don't have a dedicated IPv4 address.
 - **System Optimization**: Automates complex tasks like keeping the PC awake or configuring firewall rules.
-- **Premium UI**: Modern, glassmorphic dark theme with live status tracking and real-time logs.
+- **Premium UI**: Modern, glassmorphic dark theme with live status tracking.
 
 ---
 
 ## 🛠️ Included Tools
 
-1.  **System Preparation**: Automated WSL2 activation (Windows) or Homebrew setup (macOS).
+1.  **System Preparation**: Automated WSL2 activation (Windows).
 2.  **Stability**: Disabling hibernation to ensure constant node uptime.
 3.  **Firewall Management**: Automatic configuration of local firewall rules for Pi Node ports.
 4.  **One-Click Installers**: Direct access to official Docker and Pi Node releases.
@@ -36,7 +32,7 @@ An automated, cross-platform setup assistant for Pi Node operators. This tool si
 
 ### Prerequisites
 
-- Administrator (Windows) or Root (macOS) privileges.
+- Administrator (Windows) privileges.
 
 ---
 

@@ -1,4 +1,4 @@
-# Pi Node Setup Helper v10.0 🚀
+# Pi Node Setup Helper v12.0 🚀
 
 <p align="center">
   <img src="https://github.com/Fingerkrampf/Pi-Node-Setup-Helper/blob/main/Screenshot_before.png" width="48%" alt="Screenshot before">

@@ -1,8 +1,7 @@
 # Pi Node Setup Helper v12.0 🚀
 
 <p align="center">
-  <img src="https://github.com/Fingerkrampf/Pi-Node-Setup-Helper/blob/main/Screenshot_before.png" width="48%" alt="Screenshot before">
-  <img src="https://github.com/Fingerkrampf/Pi-Node-Setup-Helper/blob/main/Screenshot_after.png" width="48%" alt="Screenshot after">
+  <img src="https://github.com/Fingerkrampf/Pi-Node-Setup-Helper/blob/main/Screenshot_before_after.png" width="48%" alt="Screenshot">
 </p>
 
 An automated, setup assistant for Pi Node operators. This tool simplifies the complex installation and configuration process required to run a healthy Pi Node on Windows.
